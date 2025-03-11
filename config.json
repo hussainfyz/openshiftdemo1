@@ -1,0 +1,7 @@
+{
+    "docker_username": "fayazhussain",
+    "docker_password": "dckr_pat_Vy3HR60ckwbx9v7DOp7WNmKAxbE",
+    "docker_repo": "fayazhussain/fastapi-worker",
+    "oc_cluster": "https://172.30.0.1:443",
+    "app_name": "fastapi-worker"
+}

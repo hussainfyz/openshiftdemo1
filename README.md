@@ -1,2 +1,2 @@
-# openshiftdemo1
-2ndapp
+# openshiftdemo
+openshiftdemo
